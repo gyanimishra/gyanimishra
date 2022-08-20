@@ -12,7 +12,9 @@
  <a href="https://www.linkedin.com/in/prakash-gyanu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gyan's linkedin url" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
  
  
- <a href="https://gyanprakashportfolio.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/gyanimishra/github-profile-readme-generator/master/src/images/icons/Social/portfolio-in-alt.svg" alt="gyan's portfolio url" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+- 👨‍💻 My Portfolio [URL](https://gyanprakashportfolio.netlify.app/)
+
+ 📄 My resume [URL](https://drive.google.com/file/d/1wkEN88hPc3bqztyxo6u3vXj0xwoyxM_-/view?usp=sharing)
  
 
 <br/>
